@@ -10,6 +10,10 @@ https://blog.csdn.net/happy_a_bin/article/details/120013976?ops_request_misc=%25
 打包：
 mvn clean install 
 
+cd /Users/wangqian/Documents/github/BaseLearn/demo-boot_副本/target/demo-boot-0.0.1-SNAPSHOT.jar
+在taiget文件下使用命令行运行：
+java -jar demo-boot-0.0.1-SNAPSHOT.jar
+
 maven环境配置
 
 open ~/.bash_profile
